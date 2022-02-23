@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bill for regulating abuses in elections of members to serve in Parliament as it was read a second time, and committed, by the House of Commons, upon Saturday the 5th of April, 1679 : and now offered as advice to the consideration of the whole kingdom.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38209</idno>
+            <idno type="STC">Wing E2532</idno>
+            <idno type="STC">ESTC R32902</idno>
+            <idno type="EEBO-CITATION">12778266</idno>
+            <idno type="OCLC">ocm 12778266</idno>
+            <idno type="VID">93791</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38209)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93791)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1034:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bill for regulating abuses in elections of members to serve in Parliament as it was read a second time, and committed, by the House of Commons, upon Saturday the 5th of April, 1679 : and now offered as advice to the consideration of the whole kingdom.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Election law --  Great Britain.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:93791:1"/>
+            <pb facs="tcp:93791:1"/>
+            <head>THE BILL For Regulating Abuſes in ELECTIONS OF MEMBERS To ſerve in PARLIAMENT, <hi>As it was read a ſecond time, and Committed, by the Houſe of Commons, upon</hi> Saturday <hi>the 5th of</hi> April, 1679. And now offered as Advice to the conſideration of the whole Kingdom.</head>
+            <p>FOR the remedying the many and great diſorders, miſcarria<g ref="char:EOLhyphen"/>ges, inconveniences, diſputes, and conteſts, ariſing about the Elections and Returns of Knights, Citizens, and Burgeſſes to ſit in Parliament, Be it Enacted by the Kings moſt Excellent Majeſty, Lords Spiritual and Temporal, and Commons aſſembled, That for the time to come every perſon that at the time of any Electi<g ref="char:EOLhyphen"/>on of Knights of any Shire or County at large, is, and by the ſpace of one year next before ſuch Election, hath been a Houſeholder and Inhabitant in the ſame County, and within the ſame by all that time hath been (without fraud or deſign thereby to enable himſelf to give Voice) charged, rated, taxed to, and have payed and born his Scot and Lot towards the maintenance and defraying the Poor, and other publick Charges and Payments, and who is not under one and twen<g ref="char:EOLhyphen"/>ty years of age; and is worth two hundred pounds in Fee, clear Eſtate of his own, over and beſides his Debts, Charges, and Engage<g ref="char:EOLhyphen"/>ments by him owing and payable, or ingaged in; and none other ſhall have Vote, Voice, and be Elector of Knights of the County or Shire wherein he ſo inhabits or dwells. That in every In-Shire City or Town that is both City and County, and in every other City, Town, Burrough, or place, that now do, or hereafter ſhall ſend Members to the Parliament (except the Cities of <hi>London, York, Norwich, Exeter,</hi> and <hi>Briſtol</hi>) every perſon at the time of ſuch Election of Members for to ſit in Parliament for any ſuch place, that at the time of ſuch reſpe<g ref="char:EOLhyphen"/>ctive Election, and by the like ſpace of one year before, hath been a Houſe<g ref="char:EOLhyphen"/>holder
+<pb n="2" facs="tcp:93791:2"/>and Inhabitant within ſuch reſpective City, Town, Burrough or place (except before excepted) and by all that time hath been there charged, rated, taxed, and paid Scot and Lot, without fraude, as aforeſaid; and not under one and twenty years of Age: And none others ſhall have Vote and Voice, and be Elector in ſuch reſpective City, Burrough, Town, or place, any Law, Charter, or <hi>non obſtante</hi> in any Charter to the contrary notwithſtanding. And that the reſpective Sheriffs, and other Officers, to whoſe care and management the Electi<g ref="char:EOLhyphen"/>ons are committed, have hereby power and authority to adminiſter un<g ref="char:EOLhyphen"/>to, and to examine upon oath, the parties themſelves concerning the Qualifications and Matters aforeſaid, That for the future no perſon by himſelf, or others, by or with his conſent and approbation, ſhall by feaſting, treating, entertaining with meat, drink, or otherwiſe; or by bribes, preſents, rewards, or gifts, given, ſpent, promiſed, or engaged to, upon or amongſt the Electors, or to or for their uſe or benefit, or to or for the only benefit or advantage of any County, Ci<g ref="char:EOLhyphen"/>ty, Town, or place, ſending members to Parliament, or the Inha<g ref="char:EOLhyphen"/>bitants thereof, or under any pretended Charity for the poor of any ſuch Town or place, directly, or indirectly, labour or endeavour to ob<g ref="char:EOLhyphen"/>tain or procure Elections of any perſon, or perſons, to be Members or Repreſentatives to ſit in Parliament, under the pains and penalties en<g ref="char:EOLhyphen"/>ſuing (to wit) that every ſuch perſon ſo labouring, or indeavouring by any ſuch undue and illegal ways and means, ſhall be hereby diſabled and uncapable of being or fitting as a Member of that Parliament, and alſo ſhall forfeit the ſum of five hundred pounds: And that the City, Town, or place, where any ſuch feaſting, treating, or entertaining ſhall be manifeſtly and notoriouſly admitted or ſuffered, ſhall from that time forfeit their Priviledge of ſending members to Parliament: And in lieu thereof, an Election to be made of Members in their ſtead in ſome other Town, or place, within the ſame County, or elſe in the County at large, as the houſe of Commons in the next enſuing Parlia<g ref="char:EOLhyphen"/>ment, that ſhall have or take notice of ſuch forfeiture, ſhall appoint and direct: And it is hereby further Enacted, that all and every Ju<g ref="char:EOLhyphen"/>ſtice of the Peace, Mayor, Bayliffs and Conſtables, having Juriſdiction or Authority in any ſuch Town, or place, for the ſuppreſſing and pre<g ref="char:EOLhyphen"/>venting the miſdemeanours and evil practiſes aforeſaid, are hereby commanded and required not to permit any ſuch feaſtings, treatings, or entertainments, for or in order to the end aforeſaid, but upon Oath and Examination (which they are hereby impowered to adminiſter) or upon their own view, to arreſt and apprehend all ſuch miſdoers, and them to Commit to Goal, there to remain, till they give good and ſuf<g ref="char:EOLhyphen"/>ficient ſecurity not to offend in that kind for the future, and appear at the next Aſſizes, or general Seſſions of the Peace for the County, or place, where the offence ſhall be committed, there to be proceeded a<g ref="char:EOLhyphen"/>gainſt, and puniſhed for his ſaid offence according to Law: And that if any of the Officers or Miniſters aforeſaid, having information upon Oath, or other ſufficient evidence of the fact, ſhall refuſe or neglect to do his duty herein, he ſhall forfeit the ſum of one hundred pounds for every ſuch neglect or refuſal: And that if any Mayor, Recorder, Al<g ref="char:EOLhyphen"/>derman, Town-clerk, Burgeſs, Portreeve, Bayliff, Magiſtrate, or
+<pb n="3" facs="tcp:93791:2"/>Officer, ſhall permit or ſuffer himſelf to be feaſted, treated, or enter<g ref="char:EOLhyphen"/>tained, or ſhall directly or indirectly accept, take, or receive, any bribe, gift, preſent, or reward, to the intent and end aforeſaid, he is hereby diſabled to give any Vote, or to be Elector; and moreover ſhall for e<g ref="char:EOLhyphen"/>very ſuch offence forfeit the ſum of one hundred pounds. And it is hereby likewiſe Enacted, that no Writ or ſuit ſhall be hereafter ſewed proſecuted, or proceeded for wages, or any ſum or ſums of money due or demandable for wages, by any Knights, Citizens, or Burgeſſes, for or in reſpect of their ſervices in Parliament; but all ſuch wages are, and from henceforth ſtand releaſed and diſcharged, and for the avoiding of the abuſes and undue means too often uſed by Sheriffs, Underſheriffs, Mayors, Bayliffs, and Officers, about ſuch Election and Returns, and that there may be juſt, fair, and legal Elections and Returns here<g ref="char:EOLhyphen"/>after made, Be it further Enacted by the Authority aforeſaid, That no Sheriff, Portreeve, Bayliff, Magiſtrate, or Officer, (except onely when need requires, from the Evening to the morning of the next day ſuc<g ref="char:EOLhyphen"/>ceeding, till Election be determined, or to ſome convenient place with<g ref="char:EOLhyphen"/>in two miles of the Town, or place, appointed, or ſet, for ſuch Electi<g ref="char:EOLhyphen"/>on) ſhall adjourn the ſaid Election from that day or place appointed or ſet for the ſame, but ſhall fairly and indifferently proceed to finiſh the Election as ſoon as conveniently he can at the time and place appoint<g ref="char:EOLhyphen"/>ed, without any other adjournment there, as aforeſaid: And if any Adjournment <hi>de facto</hi> be made contrary to this Act, the proceeding af<g ref="char:EOLhyphen"/>terward ſhall be void, and the perſon that had the majority of Voices at the time of ſuch unlawful Adjournment, ſhall be the perſon duely E<g ref="char:EOLhyphen"/>lected, and ſhall be returned ſo to be: And if any perſon ſhall hereafter be, for conſideration of money, bribes, preſents, gifts, or rewards, directly or indirectly, given or promiſed, or ingaged to be given, or for fear or favour, by any Sheriff, Mayor, Bayliff, Portreeve, or Offi<g ref="char:EOLhyphen"/>cer, wrongfully and unduly Returned to be the perſons Elected, which in truth and realty was not; Or if any Sheriff, Underſheriff, their Clarks, or Miniſters; or any Mayor, Recorder, Town-Clark, Por<g ref="char:EOLhyphen"/>treeve, Bayliffs, or other Officer, or Magiſtrate intruſted with the or<g ref="char:EOLhyphen"/>dering or making ſuch Election, or Returns, ſhall not fairly, juſtly, honeſtly, and impartially, according to the beſt of his skill and dili<g ref="char:EOLhyphen"/>gence, act and do his duty in the premiſes; in every ſuch caſe the par<g ref="char:EOLhyphen"/>ty offending ſhall forfeit, if a Sheriff, the ſum of five hundred pound, if a Mayor, or other Officer, or Miniſter, two hundred pound, and treble damages to the party grieved; and that all ſecurities, promiſes, and engagements made or given to any Officer, for the indemnifying of ſaving harmleſs concerning the premiſes, ſhall be abſolutely voyd, and of no effect; and every party giving or making ſuch ſecurities, promiſes, or ingagements, to forfeit five hundred pound for his offence in ſo doing: And further, for the avoiding all exactions, extortions, and briberies, under the pretence of gratuities, preſents, or recom<g ref="char:EOLhyphen"/>pence, for diſpatch, or towards charges, or otherwiſe, by any Sheriff, Underſheriff, Sheriff's-Clark, or Miniſter, or by any Mayor, Portreeve, Bayliff, or other Officer, or Miniſter, hereafter to be taken, Be it En<g ref="char:EOLhyphen"/>acted, That none of the ſaid Officers, or Miniſters, ſhall directly, or indi<g ref="char:EOLhyphen"/>rectly take, have, or receive, or agree, or contract to have or receive,
+<pb n="4" facs="tcp:93791:3"/>for any warrant, or preſent, upon or by Vertue of any Writ for Electi<g ref="char:EOLhyphen"/>on for Parliament, or for any return of any Writ, Mandate or Precept, above the ſum of two Shillings ſix pence, under the pain of forfeiting ten times as much as he ſhall in ſuch caſe take over and beſides the ſum of two Shillings ſix pence, together with coſts in every ſuch ſuit to be recovered: All and every the penalties and forfeitures aforeſaid (except the ſaid forfeitures of treble damages) to be recovered by him, or them that ſhall, and will ſue for the ſame, in any Court of Record, within the ſpace of one year next enſuing ſuch cauſe of action accrued; in which ſuit there ſhall be no allowance of, or admiſſion of any privi<g ref="char:EOLhyphen"/>ledge of Parliament, or other priviledges, or of any Protection, or In<g ref="char:EOLhyphen"/>junction; nor of any Plea of another action, or information for the ſame offence depending (except Oaths be made in the Court, where-ſuch plea ſhall be pleaded by both the Defendant and Plaintiff, and real Proſecutor therein, that the ſame is really and <hi>bona fide,</hi> brought for re<g ref="char:EOLhyphen"/>covery of the forfeiture herein, without any fraud or deſign to excuſe or defend the offender from the forfeiture by the Statute impoſed) which the Court where ſuch pleas ſhall be pleaded, are hereby enabled to exa<g ref="char:EOLhyphen"/>mine, and according to the truth and realty thereof, to allow the ſaid Plea, or not; And for the better obſervation of this Act, All Sheriffs of Counties at large, ſhall in the place where the Election is to be made, immediately before they proceed to take the Votes of the Electors, cauſe this Statute to be audibly read in the preſence of the Electors; And that all Sheriffs of Inn-ſhires, or Citys, or Towns that are Counties of themſelves, Mayors, Portreeves, Bayliffs, and other Officers, and Miniſters reſpectively, ſhall immediately after the receipt of any writ, or precept, for ſuch Election, or certain knowledge of a Parliament to be choſen, ſet up this Act in their reſpective Halls, or other publick places, to be read and viewed; and alſo on the next Lords day after ſuch certain notice of ſuch Parliament to be choſen, or after receipt of ſuch writ, precept, or mandate for ſuch Election, and before the time of the Election, cauſe and procure this Statute to be publickly and audibly read in the Churches of their Counties, Cities, Towns, or Burroughs, where ſuch reſpective Elections are to be, immediately after Divine Ser<g ref="char:EOLhyphen"/>vice ended, and before the people aſſembled are departed: And further, for the prevention of the long continuance of any Parliament for the fu<g ref="char:EOLhyphen"/>ture, and thereby depriving the King and Kingdom of the benefits of ſucceſſive Parliaments, It is hereby Enacted, That no Parliament ſhall here<g ref="char:EOLhyphen"/>after have Continuance in any manner, by Prorogation, or Adjournment, or Seſſion, or partly by one and partly by the other, or otherwiſe how<g ref="char:EOLhyphen"/>ſoever, for above the ſpace of two years from the day of the return of the writ of Summons next enſuing, but at the end of the ſaid two years ſhall be <hi>ipſo facto</hi> diſſolved: And that in every Indenture hereafter to be made or ſealed by any Electors, there be a Clauſe therein inſerted, That the perſon or perſons are hereby authoriſed to ſerve in Parliament for the ſpace of two years, from the day of the return of ſuch writ of Sumons next enſuing, if the ſaid Parliament ſhall ſo long continue, and no longer.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93791:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
